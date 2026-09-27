@@ -6,4 +6,4 @@ feat-login development started
 
 Homepage development started 
 
-login feature is ready for review 
+login feature is now live 
