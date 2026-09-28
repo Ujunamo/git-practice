@@ -7,3 +7,5 @@ feat-login development started
 Homepage development started 
 
 login feature is now live 
+
+profile feature added 
