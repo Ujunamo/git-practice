@@ -9,3 +9,4 @@ Homepage development started
 login feature is now live 
 
 profile feature added 
+git fetch and pull practice 
