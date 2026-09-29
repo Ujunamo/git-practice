@@ -10,4 +10,3 @@ login feature is now live
 
 profile feature added 
 git fetch and pull practice 
-this commit will be reverted 
