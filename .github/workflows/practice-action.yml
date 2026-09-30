@@ -1,0 +1,13 @@
+ame: Practice GitHub Action
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  practice:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run practice test
+        run: echo "GitHub Actions practice is successful!"
